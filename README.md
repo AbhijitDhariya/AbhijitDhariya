@@ -52,3 +52,4 @@
 ## 🤝 Let's Connect!
 
 - 💼 LinkedIn: [Abhijit Dhariya](https://www.linkedin.com/in/abhijit-dhariya/)
+- 🎓 Google Scholar: [Abhijit Dhariya](https://scholar.google.com/citations?hl=en&user=sXgbqpYAAAAJ)
