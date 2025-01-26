@@ -7,7 +7,7 @@
 ### You are visitor number:  
 ![Visitor Count](https://profile-counter.glitch.me/AbhijitDhariya/count.svg)
 
-## 💻 Technical Arsenal
+### 💻 Technical Arsenal
 
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -49,7 +49,7 @@
 
 > "I believe in building tools that empower developers and solve real-world problems. Open source is not just about code - it's about community and collaboration.
 
-## 🤝 Let's Connect!
+### 🤝 Let's Connect!
 
 - 💼 LinkedIn: [Abhijit Dhariya](https://www.linkedin.com/in/abhijit-dhariya/)
 - 🎓 Google Scholar: [Abhijit Dhariya](https://scholar.google.com/citations?hl=en&user=sXgbqpYAAAAJ)
