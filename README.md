@@ -1,13 +1,5 @@
 ## Hi there 👋 I'm Abhijit 
 
-<!--
-**AbhijitDhariya/AbhijitDhariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on - make this world better place and secure 2nd
-- 🌱 I’m currently learning AI/ML, Agentic AI, 
-- 👯 I’m looking to collaborate on -  beyond my working hours any projects, topic related to any new software technologies
--->
-
 - 🔭 I’m currently working on - SaaS (yeah I know they call that as dead/dying), Cloud native technologies and protect human and machine identities :-) 
 - 🌱 I’m currently learning - AI/ML, Agentic AI, Self Sovergin Identities (SSI), Post quantum, 
 - 👯 I’m looking to collaborate on -  beyond my working hours - side/fun projects, discussions related to any new software technologies, or may be new startup idea :-) 
@@ -15,7 +7,8 @@
 ### You are visitor number:  
 ![Visitor Count](https://profile-counter.glitch.me/AbhijitDhariya/count.svg)
 
-## Technologies and Tools
+## 💻 Technical Arsenal
+
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
